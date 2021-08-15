@@ -1,0 +1,6 @@
+Tips to reduce disk utilization
+#Disable superfetch 
+- open the cmd prompt as admin 
+  - .net.exe stop superfetch
+  
+ 
